@@ -51,7 +51,7 @@ typedef struct {
 
 void Proces_Input(char* kalimat, ListQueue *L);
 
-char* input_tekss();
+char* input_teks();
 
 char* read_file(char *input_file);
 

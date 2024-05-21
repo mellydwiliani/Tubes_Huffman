@@ -29,9 +29,9 @@ int main(){
 		printf("\t 1. Input\n");
 		printf("\t 2. Show Queue\n");
 		printf("\t 3. Show Tree & Huffman\n");
-		printf("\t 4. Encode & Export\n");
-		printf("\t 5. Decode from File\n");
-		printf("\t 6. Exit Program\n");
+		printf("\t 3. Encode & Export\n");
+		printf("\t 4. Decode from File\n");
+		printf("\t 5. Exit Program\n");
 		printf("\t\n");
 		
 		printf("\t  Masukkan Pilihan	: ");		
